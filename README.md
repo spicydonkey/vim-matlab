@@ -1,6 +1,10 @@
 Matlab for vim
 =============
 
+### TODO
+-[] clarify DOS/unix style versions - line endings in vim scripts
+-[] mlint usage needs to be updated for unix environment
+
 ### Features
 
 - Syntax highlighting
